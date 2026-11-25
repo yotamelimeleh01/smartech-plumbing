@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://yotamelimeleh01.github.io/smartech-plumbing/sitemap.xml
